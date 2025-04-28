@@ -1,13 +1,15 @@
+<h3 align="center">yonderwire-gaming</h3>
 <p align="center">
   <a href="#key-features">Key Features</a> &nbsp; | &nbsp;
   <a href="#branches">Branches</a> &nbsp; | &nbsp;
   <a href="#getting-started">Getting Started</a> 
 </p>
 <h2 align="center">
-  <img src="Logo-Game-BW.png" alt="Logo" width="150">
-  <img src="Logo-Game-ORANGE.png" alt="Logo" width="150">
-  </br>Y-Gaming
-  </br><img src="Logo_4.png" alt="Logo" width="80">
+<!--   <img src="Logo-Game-BW.png" alt="Logo" width="150"> -->
+<!--   <img src="Logo-Game-ORANGE.png" alt="Logo" width="150"> -->
+  <img src="https://repository-images.githubusercontent.com/530891649/0b693a6e-0214-42f5-b090-5e50fa425950"
+    alt="Topic-Logo" width="450">
+  </br><img src="Logo_4.png" alt="Logo" width="80"> 
 </h2>
 
 Y-Gaming is a dating App that uses psychology and astrology to connect individuals looking for real love.
